@@ -80,6 +80,7 @@ section#img01 {
     background: url(imagens/background001.jpg); 
     background-position: right center;
     background-size: cover;
+    background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
@@ -87,6 +88,7 @@ section#img01 {
     background: url(imagens/background002.jpg);
     background-position: right center;
     background-size: cover;
+    background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
